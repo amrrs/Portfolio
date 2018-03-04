@@ -1,3 +1,5 @@
+# Written with the guidance of Machine Learning Mastery
+# https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
 install.packages("caret")
 library(caret)
 install.packages('e1071', dependencies=TRUE)
