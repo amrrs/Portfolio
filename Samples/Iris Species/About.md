@@ -4,6 +4,6 @@ More about Fisher and his dataset can be found [here](https://en.wikipedia.org/w
 
 
 ## My Methodology
-Linear Discriminant Model
-k-Nearest Neighbor
-Random Forest
+*Linear Discriminant Model
+*k-Nearest Neighbor
+*Random Forest
