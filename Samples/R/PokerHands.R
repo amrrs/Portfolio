@@ -1,3 +1,7 @@
+# PokerHands.R
+# Owen Thompson
+# octhompson19@gmail.com
+
 options(max.print = 99999999)
 # Poker Hand Dataset
 ### Initally created by Robert Cattral (cattral@gmail.com) and Franz Oppacher (oppacher@scs.carleton.ca)
