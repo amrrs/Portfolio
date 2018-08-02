@@ -1,6 +1,7 @@
-# Wine Quality
+# WineQuality.R
 # Methods: Machine Learning
 # Owen Thompson
+# octhompson19@gmail.com
 #
 # Dataset Citation:
 # P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
