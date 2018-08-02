@@ -1,3 +1,7 @@
+# TitanicSurvivors.R
+# Owen Thompson
+# octhompson19@gmail.com
+
 # rm(list=ls(all=TRUE))
 install.packages("tidyverse")
 library(tidyverse)
